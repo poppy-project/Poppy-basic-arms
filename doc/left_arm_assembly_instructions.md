@@ -8,8 +8,8 @@ First you need to assemble several sub-assemblies which will be combined to crea
 The following instructions will guide you in this assembly process:
 
 - **1.1- [Left Forearm ](subassemblies/left_forearm_assembly_instructions.md)**
-- **1.2- [Left upper arm](subassemblies/left_upper_arm_assembly_instructions.md)**
-- **1.3- [Left upper-arm/shoulder](subassemblies/left_upper_arm_shoulder_assembly_instructions.md)**
+- **1.2- [Left upper arm](subassemblies/left_upper_arm_assembly.md)**
+- **1.3- [Left upper-arm/shoulder](subassemblies/left_upper_arm_shoulder_assembly.md)**
 
 
 
