@@ -13,7 +13,7 @@ The following instructions will guide you in this assembly process:
 
 
 
-## 2- Right arm assembly
+## 2- Left arm assembly
 
 - Preparation: 5 min
 - Assembly: 5-10 min
