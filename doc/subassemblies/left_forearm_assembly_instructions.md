@@ -4,7 +4,7 @@
 - Assembly: 5-10 min
 
 ## Requirement:
-![left forearm BOM](../img/left_forearm_assembly_BOM.jpg)
+![](../img/left_forearm_assembly_BOM.jpg)
 
 **3D Printed parts**:
 - Left hand
@@ -15,7 +15,8 @@
 - 4x Nuts M2
 - 4x Screws M2
 
-## Video instructions:
-Click on the image below to display the video:
+## Assembly instructions:
 
-[![left forearm assembly](http://img.youtube.com/vi/5FsPgEt4cfA/0.jpg)](http://youtu.be/5FsPgEt4cfA)
+- **Step 1:** Ensure you have read [**this note**](//github.com/matthieu-lapeyre/Robotis-library/blob/master/doc/robotis_tricks.md) before continuing to avoid the classic (and critical) traps when using Robotis Dynamixel actuators.
+- **Step 2**: Click on the image below to display the video:
+[![](http://img.youtube.com/vi/5FsPgEt4cfA/0.jpg)](http://youtu.be/5FsPgEt4cfA)

@@ -4,7 +4,7 @@
 - Assembly: 20-30 min
 
 ## Requirement:
-![Left upper arm BOM](../img/left_upper_arm_assembly_BOM.jpg)
+![](../img/left_upper_arm_assembly_BOM.jpg)
 
 **3D Printed parts**:
 - Upper arm *(displayed arm on picture)*
@@ -30,7 +30,8 @@
 
 
 
-## Video instructions:
-Click on the image below to display the video:
+## Assembly instructions:
 
-[![Left upper arm assembly](http://img.youtube.com/vi/MIjfAXShLJ4/0.jpg)](http://youtu.be/MIjfAXShLJ4)
+- **Step 1:** Ensure you have read [**this note**](//github.com/matthieu-lapeyre/Robotis-library/blob/master/doc/robotis_tricks.md) before continuing to avoid the classic (and critical) traps when using Robotis Dynamixel actuators.
+- **Step 2**: Click on the image below to display the video:
+[![](http://img.youtube.com/vi/MIjfAXShLJ4/0.jpg)](http://youtu.be/MIjfAXShLJ4)

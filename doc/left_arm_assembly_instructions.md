@@ -18,7 +18,7 @@ The following instructions will guide you in this assembly process:
 - Preparation: 5 min
 - Assembly: 5-10 min
 
-### Requirement:
+### 2.1- Requirement:
 ![](img/left_arm_assembly.jpg)
 
 **Subassembly**:
@@ -28,7 +28,8 @@ The following instructions will guide you in this assembly process:
 **Robotis parts:**
 - 16x Bolts M2x3
 
-### Video instructions:
-Click on the image below to display the video:
+### 2.2- Assembly instructions:
 
+- **Step 1:** Ensure you have read [**this note**](//github.com/matthieu-lapeyre/Robotis-library/blob/master/doc/robotis_tricks.md) before continuing to avoid the classic (and critical) traps when using Robotis Dynamixel actuators.
+- **Step 2**: Click on the image below to display the video:
 [![](http://img.youtube.com/vi/TZb6_hVlmcA/0.jpg)](http://youtu.be/TZb6_hVlmcA)
