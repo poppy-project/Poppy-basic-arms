@@ -1,7 +1,12 @@
 # Left arm assembly instructions
 
 
-## 1- Build sub-assemblies
+## 1- Get all components required
+
+First ensure you have all components detailed in the [Bill Of Material](BOM.md).
+Also as a friendly reminder, do not forget to use threadlocker otherwise you will see your robot disassemble itself after just few weeks due to vibration.
+
+## 2- Build sub-assemblies
 
 First you need to assemble several sub-assemblies which will be combined to create the multi-articulated arm
 
@@ -13,12 +18,12 @@ The following instructions will guide you in this assembly process:
 
 
 
-## 2- Left arm assembly
+## 3- Left arm assembly
 
 - Preparation: 5 min
 - Assembly: 5-10 min
 
-### 2.1- Requirement:
+### 3.1- Requirement:
 ![](img/left_arm_assembly.jpg)
 
 **Subassembly**:
@@ -28,7 +33,7 @@ The following instructions will guide you in this assembly process:
 **Robotis parts:**
 - 16x Bolts M2x3
 
-### 2.2- Assembly instructions:
+### 3.2- Assembly instructions:
 
 - **Step 1:** Ensure you have read [**this note**](//github.com/matthieu-lapeyre/Robotis-library/blob/master/doc/robotis_tricks.md) before continuing to avoid the classic (and critical) traps when using Robotis Dynamixel actuators.
 - **Step 2**: Click on the image below to display the video:
