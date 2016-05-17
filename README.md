@@ -24,6 +24,15 @@ Please keep references to the Poppy project (www.poppy-project.org) and authors 
 
 **Authors:** Matthieu Lapeyre, Alexandre Le Falher.
 
+### Looking for the Solidworks files ?
+
+We are using a GitHub feature called GIT LFS. It is great for versionning solidworks files but it stills lack basic features. If you download directly solidworks files from this web page, you will get an empty file...
+
+You have two option:
+
+1. Download the last official Solidworks version in the [release](https://github.com/poppy-project/Poppy-basic-arms/releases). You will also find STL, STEP and parasolid files.
+- Clone locally this repository following [this guide](doc/cloning.md). This solution is only for people desiring to contribute or develop news hardware features for Poppy.
+
 ## Support
 You need support ?
 The [Poppy forum](forum.poppy-project.org) is the best (and single) place to ask for help !
